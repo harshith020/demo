@@ -1,0 +1,22 @@
+Data fields
+N - ratio of Nitrogen content in soil - kg/ha
+P - ratio of Phosphorous content in soil - kg/ha
+K - ratio of Potassium content in soil - kg/ha
+temperature - temperature in degree Celsius
+humidity - relative humidity in %
+ph - ph value of the soil
+rainfall - rainfall in mm
+
+
+
+
+introduction:
+The Crop Yield Recommendation dataset available on Kaggle is a valuable resource for agricultural research and analysis. This dataset provides information on various factors that influence crop yield, including climate conditions, soil characteristics, and agricultural practices. It aims to assist researchers, farmers, and policymakers in making informed decisions to optimize crop production.
+
+The dataset contains a wide range of variables that capture important aspects of crop growth and yield. These variables may include climatic factors such as temperature, precipitation, humidity, and solar radiation. Soil-related variables like pH levels, nutrient content, and organic matter can also be included. Additionally, agricultural practices such as irrigation, fertilizer application, pesticide usage, and crop rotation might be considered.
+
+The dataset typically covers multiple crop types, allowing for analysis and recommendations across various agricultural contexts. Common crops found in the dataset may include corn, wheat, rice, soybeans, and others, depending on the geographical region covered.
+
+The availability of such a dataset is essential for developing models and algorithms that can predict crop yield based on given inputs. It enables the application of data-driven approaches, such as machine learning and statistical analysis, to generate recommendations for optimizing crop production. By studying the relationships between different variables and crop yields, researchers can gain insights into the factors influencing agricultural productivity.
+
+Researchers and data scientists can utilize this dataset to explore patterns, correlations, and trends in crop yield. They can develop models that leverage historical data to predict future yields and evaluate the impact of different variables on crop production. Furthermore, policymakers can use this dataset to design agricultural policies and interventions that promote sustainable farming practices and improve food security.
